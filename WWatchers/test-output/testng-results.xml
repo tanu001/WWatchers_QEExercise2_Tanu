@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50382" started-at="2020-07-23T18:11:25Z" finished-at="2020-07-23T18:12:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50382" started-at="2020-07-23T18:11:25Z" finished-at="2020-07-23T18:12:16Z">
+      <class name="com.QEExecise2.Question2">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.QEExecise2.Question2@ebc39e]" name="setup" is-config="true" duration-ms="20638" started-at="2020-07-23T18:11:25Z" finished-at="2020-07-23T18:11:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="findlocation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.QEExecise2.Question2@ebc39e]" name="findlocation" duration-ms="25913" started-at="2020-07-23T18:11:49Z" data-provider="ExcelData" finished-at="2020-07-23T18:12:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10011]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SUN]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MON]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TUE]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[WED]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[THU]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[FRI]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[SAT]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findlocation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.QEExecise2.Question2@ebc39e]" name="tearDown" is-config="true" duration-ms="1069" started-at="2020-07-23T18:12:14Z" finished-at="2020-07-23T18:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.QEExecise2.Question2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
