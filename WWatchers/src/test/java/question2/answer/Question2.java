@@ -1,4 +1,4 @@
-package com.QEExecise2;
+package question2.answer;
 
 import java.io.IOException;
 
@@ -7,11 +7,11 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
-import com.Baseclass.baseclass;
-import com.PageObjects.Homepage;
-import com.PageObjects.SearchPage;
-import com.PageObjects.locationPage;
-import com.Utilis.XLUtils;
+import question2.Baseclass.baseclass;
+import question2.PageObjects.Homepage;
+import question2.PageObjects.SearchPage;
+import question2.PageObjects.locationPage;
+import question2.Utilis.XLUtils;
 
 
 public class Question2 extends baseclass{

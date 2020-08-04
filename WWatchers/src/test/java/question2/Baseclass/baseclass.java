@@ -1,4 +1,4 @@
-package com.Baseclass;
+package question2.Baseclass;
 
 import java.io.File;
 import java.io.IOException;
@@ -15,7 +15,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
-import com.Utilis.ReadConfig;
+import question2.Utilis.ReadConfig;
 
 
 

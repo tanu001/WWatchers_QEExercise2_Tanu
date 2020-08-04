@@ -1,4 +1,4 @@
-package com.QEExecise2;
+
 
 import java.util.Arrays;
 import java.util.Random;

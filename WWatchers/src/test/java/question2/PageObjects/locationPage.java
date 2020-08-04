@@ -1,4 +1,4 @@
-package com.PageObjects;
+package question2.PageObjects;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

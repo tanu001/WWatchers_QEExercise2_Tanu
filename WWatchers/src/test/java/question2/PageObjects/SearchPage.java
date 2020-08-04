@@ -1,4 +1,4 @@
-package com.PageObjects;
+package question2.PageObjects;
 
 import java.util.HashMap;
 import java.util.List;
